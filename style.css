@@ -1,0 +1,10 @@
+html {
+  background-color: #755d5d;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+}
